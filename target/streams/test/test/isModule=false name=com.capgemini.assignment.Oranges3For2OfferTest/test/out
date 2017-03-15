@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mOranges3For2OfferTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mOranges3For2Offer[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calcAdjustment for min eligible quantity[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Apply offer multiple times when there are multiple eligible quantities[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Apply offer correctly for a mixed list of items[0m[0m

@@ -1,0 +1,8 @@
+compile
+run
+run checkoutTests
+test
+compile
+test
+compile
+test

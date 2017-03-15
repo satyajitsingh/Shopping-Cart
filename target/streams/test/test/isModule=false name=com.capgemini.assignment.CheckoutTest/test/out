@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mCheckoutTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mCheckout[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly calculate the value of a shopping cart[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle an empty shop item seq[0m[0m
+[0m[[0minfo[0m] [0m[32m- should apply bu1get1 offers to apples in the shopping cart when there is an eligible quantity[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not apply bogof offers to apples in the shopping cart when there there is an insufficient quantity[0m[0m
+[0m[[0minfo[0m] [0m[32m- should apply 3 for 2 offers on oranges when there is at least 3 oranges in the basket[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not apply 3 for 2 on oranges when there is less than 3 oranges in the basket[0m[0m
+[0m[[0minfo[0m] [0m[32m- should apply multiple offers to a mixed item list with with eligible quantities[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not apply offers to a mixed item list when min quantities not satisfied[0m[0m
